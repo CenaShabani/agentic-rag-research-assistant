@@ -1,0 +1,1622 @@
+[
+  {
+    "qid": "kt000",
+    "question": "Adaptive Two-Stage Online Learning for Service-Affecting Failure Detection in Mobile Core Networks",
+    "relevant_ids": [
+      "2607.18522"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka000",
+    "question": "Across linear and non-linear models, the proposed two-stage architecture achieves the best precision-recall trade-off, attaining the highest recall, F1-score, and AUC at acceptable false positive rates.",
+    "relevant_ids": [
+      "2607.18522"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk000",
+    "question": "traffic-based false monitor two-stage detection",
+    "relevant_ids": [
+      "2607.18522"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt001",
+    "question": "AutoMatBench: An Automatic Optimization Toolkit for the Acceleration of Material Properties Prediction Benchmarking",
+    "relevant_ids": [
+      "2607.11526"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka001",
+    "question": "Even though MatBench works well in benchmarking the performances of prediction models on in-distribution (ID) tasks and datasets, it lacks the ability to reflect their performances on out-of-distribution (OOD) material data, resulting failure in new material discovery.",
+    "relevant_ids": [
+      "2607.11526"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk001",
+    "question": "datasets infers benchmarking accessed findings",
+    "relevant_ids": [
+      "2607.11526"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt002",
+    "question": "Learning from Noise: Effective-Rank Collapse and Out-of-Distribution Rejection in Restricted Boltzmann Machines",
+    "relevant_ids": [
+      "2607.10506"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka002",
+    "question": "When auxiliary random binary images are assigned to a rejection label during training, the learned interaction undergoes effective-rank collapse: weak bulk-like modes are depleted, spectral weight concentrates into fewer dominant eigendirections, and the effective rank of $J$ approaches that of the empirical data covariance matrix.",
+    "relevant_ids": [
+      "2607.10506"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk002",
+    "question": "concentrates fragile increasing free-energy bulk-like",
+    "relevant_ids": [
+      "2607.10506"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt003",
+    "question": "Convergence-Latency-Aware Adaptive Modulation and Resource Allocation in RIS-Assisted Wireless Federated Learning",
+    "relevant_ids": [
+      "2607.19759"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka003",
+    "question": "Extensive experiments on MNIST, CIFAR-10, and Speech Commands show that the proposed scheme consistently achieves faster convergence and higher test accuracy than existing adaptive communication schemes, especially in complex tasks and challenging wireless scenarios.",
+    "relevant_ids": [
+      "2607.19759"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk003",
+    "question": "derive errors system due loss",
+    "relevant_ids": [
+      "2607.19759"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt004",
+    "question": "The Test Oracle Problem in Synthetic LLM-as-Judge Corpora: Disappearance, Distortion and a Validation Protocol",
+    "relevant_ids": [
+      "2607.13707"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka004",
+    "question": "The resulting items produced a large, statistically robust effect: a 32-point cross-lingual collapse in one judge's selection accuracy, replicated from N=50 to N=500, explained by a three-layer mechanistic account, and confirmed by a controlled producer-swap experiment, none of which was real.",
+    "relevant_ids": [
+      "2607.13707"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk004",
+    "question": "zero-cost generate explained case vulnerability",
+    "relevant_ids": [
+      "2607.13707"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt005",
+    "question": "Weight Feedback Computes the Jacobian Transpose Locally in Modern Deep Networks",
+    "relevant_ids": [
+      "2607.13380"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka005",
+    "question": "For any layer $f(x)=\\mathrm{Act}(\\mathrm{Norm}(L(x)))$ with frozen normalization statistics, the exact $J^\\top$ factors into three locally available terms, $J^\\top v = L^\\top(s \\odot σ'(z) \\odot v)$, where $σ'$ is the activation derivative, $z$ is the pre-activation, and $s=γ/σ_{\\mathrm{run}}$ is the normalization gain.",
+    "relevant_ids": [
+      "2607.13380"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk005",
+    "question": "prior synapse-local weight locality assumptions",
+    "relevant_ids": [
+      "2607.13380"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt006",
+    "question": "TSSM: Triaxial State Space Model for Global Station Weather Forecasting with Temporal-Variable-Historical Modeling",
+    "relevant_ids": [
+      "2607.13101"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka006",
+    "question": "To address this problem, we propose a novel Triaxial State Space Model (TSSM) with a history-enhanced Temporal-VariableHistorical paradigm, which incorporates period-aligned historical weather data to compensate for long-term, large-scale periodic, and full-window weather patterns beyond the temporal lookback window.",
+    "relevant_ids": [
+      "2607.13101"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk006",
+    "question": "space dependencies correlations existing second-best",
+    "relevant_ids": [
+      "2607.13101"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt007",
+    "question": "Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data",
+    "relevant_ids": [
+      "2607.11883"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka007",
+    "question": "Plugged into a PAC-Bayes bound, the requential code yields state-of-the-art generalization guarantees for billion-parameter LLMs, outperforming bounds built on aggressive post-training quantization even granted zero error.",
+    "relevant_ids": [
+      "2607.11883"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk007",
+    "question": "fixed simplicity bounds functions phenomena",
+    "relevant_ids": [
+      "2607.11883"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt008",
+    "question": "Efficient Clustering with Provable Guardrails for LLM Inference at Scale",
+    "relevant_ids": [
+      "2607.19704"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka008",
+    "question": "The algorithm enforces the similarity and attribute guardrails exactly by construction, and runs in $O(nd + n^2 d/K)$ time and $O(nd + n^2/K^2)$ memory for $n$ samples, feature dimension $d$, and $K$ initial clusters -- linear in $n$ when $K$ grows proportionally with $n$.",
+    "relevant_ids": [
+      "2607.19704"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk008",
+    "question": "quality heuristic proportionally attributes production",
+    "relevant_ids": [
+      "2607.19704"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt009",
+    "question": "Generalizing Preference-based Reinforcement Learning: a Rationality Model for Incomparability",
+    "relevant_ids": [
+      "2607.11432"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka009",
+    "question": "Finally, we evaluate our model's ability to reconstruct a reward function that aligns with the expert's comparisons in simulated environments and to recover the Pareto frontier of policies, along with a robustness analysis across varying levels of expert rationality.",
+    "relevant_ids": [
+      "2607.11432"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk009",
+    "question": "pairs provide reward preference-based along",
+    "relevant_ids": [
+      "2607.11432"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt010",
+    "question": "Transcription Policy as a Latent Variable: Activating Controllable Verbatim ASR with Word-Level Timing",
+    "relevant_ids": [
+      "2607.18934"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka010",
+    "question": "Modern ASR models trained on heterogeneously annotated data treat transcription style (verbatim vs. intended) as an uncontrolled latent variable, causing measurable decoding instability, evaluation confounding (up to 60% of reported WER attributable to style mismatch), and unreliable word-level timing.",
+    "relevant_ids": [
+      "2607.18934"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk010",
+    "question": "data disfluent training coverage-aware supervised",
+    "relevant_ids": [
+      "2607.18934"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt011",
+    "question": "Machine Can Automatically Discover Parametric Functions to Model HEP Data",
+    "relevant_ids": [
+      "2607.19750"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka011",
+    "question": "We present the SymbolFit package, which pairs symbolic regression with uncertainty modeling to target HEP analysis use cases, and demonstrate it on the CMS and ATLAS Run 2 dijet spectra: 560 independent seeded runs across seven simple fit configurations generated over 1000 functions fitting the spectra with $χ^2/\\text{NDF}\\approx 1$, and 111 of the runs rediscovered the very dijet and UA2 functions used in published dijet searches.",
+    "relevant_ids": [
+      "2607.19750"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk011",
+    "question": "simple data-driven rediscovered functions ndf",
+    "relevant_ids": [
+      "2607.19750"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt012",
+    "question": "Physiological Signals as a Forensic Modality for Talking-Face Deepfake Detection",
+    "relevant_ids": [
+      "2607.21776"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka012",
+    "question": "Evaluated on the TF subset of Celeb-DF++ un- der a strict subject-independent protocol, where test identi- ties are completely separated from training identities, our 1D ResNet achieves an AUC of 0.806 and EER of 27.8%, placing it within 2.4 points of the best published general- purpose detector (Effort, ICML 2025) while operating ex- clusively on the physiological channel.",
+    "relevant_ids": [
+      "2607.21776"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk012",
+    "question": "photoplethysmography eer interpretable across reflects",
+    "relevant_ids": [
+      "2607.21776"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt013",
+    "question": "How Reliable Are Multimodal Signals of Conversational State? Evidence from Remote Dyadic Collaborative Tasks",
+    "relevant_ids": [
+      "2607.17452"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka013",
+    "question": "Our findings reveal three insights: (1) linguistic features predict best but generalize poorly across task contexts; (2) acoustic reliability collapses to near-zero once speaker identity is controlled, challenging standard evaluation practice; and (3) interaction features provide the only genuinely reliable signal, with floor dominance predicting within-dyad cognitive load asymmetry.",
+    "relevant_ids": [
+      "2607.17452"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk013",
+    "question": "present tasks predicting cross-task only",
+    "relevant_ids": [
+      "2607.17452"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt014",
+    "question": "FastTPS: An Optimized Method for LLM Token Phase for AI accelerators",
+    "relevant_ids": [
+      "2607.11211"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka014",
+    "question": "This paper presents FastTPS, a high performance and low-precision loss method for accelerating the token-phase in LLM inference on general AI accelerators which includes three key components: (1) AI accelerator-enabled reloading-free KV Cache concatenation which decreases memory access overhead as well as enables full fusion of Attention, (2) high-efficiency and high-accuracy 'RoPE' attention based on the tiling optimized FLAT, and (3) highly-fused MLP with fine-grain pipeline scheduling.",
+    "relevant_ids": [
+      "2607.11211"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk014",
+    "question": "large enables cache mlp general",
+    "relevant_ids": [
+      "2607.11211"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt015",
+    "question": "L1 Augmented Attention as an Improved Vector Similarity Metric",
+    "relevant_ids": [
+      "2607.18027"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka015",
+    "question": "These results demonstrate that enriching attention with L1 geometry provides a principled and effective improvement to similarity computation in modern language models, with practical benefits for both accuracy and parallel efficiency.",
+    "relevant_ids": [
+      "2607.18027"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk015",
+    "question": "directional provides product enriching specialize",
+    "relevant_ids": [
+      "2607.18027"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt016",
+    "question": "Trainable Spline Representations for Physics-Informed Learning",
+    "relevant_ids": [
+      "2607.15751"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka016",
+    "question": "The proposed method is evaluated on several benchmark problems of increasing difficulty and compared with standard physics-informed frameworks under matched governing equations, collocation sets, loss terms, and optimization procedures, so as to isolate the effect of the approximation architecture.",
+    "relevant_ids": [
+      "2607.15751"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk016",
+    "question": "experiments formulation spline-based representations coefficients",
+    "relevant_ids": [
+      "2607.15751"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt017",
+    "question": "MemDecay: Region-Aware KV Cache Eviction for Efficient LLM Agent Inference",
+    "relevant_ids": [
+      "2607.10582"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka017",
+    "question": "Large language model (LLM) agents accumulate heterogeneous context, including system instructions, plans, user turns, retrieved documents, tool outputs, and intermediate reasoning, whose key-value (KV) cache can become a major memory bottleneck.",
+    "relevant_ids": [
+      "2607.10582"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk017",
+    "question": "key-value accumulate recency-based rates normalization",
+    "relevant_ids": [
+      "2607.10582"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt018",
+    "question": "UNIBROWSE: A Data-to-Agent Framework for Multimodal BrowseComp",
+    "relevant_ids": [
+      "2607.10557"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka018",
+    "question": "Through this pipeline, we produce high-quality cold-start tool-use trajectories and exploration-rich QA pairs, and train a 35B-scale agent via supervised fine-tuning and exploration-aware RL.The resulting UNIBROWSE agent achieves state-of-the-art performance on multimodal BrowseComp benchmarks, attaining an average accuracy of 54.4 across five diverse benchmarks -- an improvement of 10.5 points over its base model Qwen3.5-35B-A3B -- and surpassing serveral closed-source agent workflows such as GPT-5 (42.9), Gemini-2.5 Pro (44.8), and Gemini-2.5 Flash (41.3).",
+    "relevant_ids": [
+      "2607.10557"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk018",
+    "question": "only efficient text-to-image uncertainty data",
+    "relevant_ids": [
+      "2607.10557"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt019",
+    "question": "Backpropagation as a Nilpotent Linear System",
+    "relevant_ids": [
+      "2607.11289"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka019",
+    "question": "We present a global operator theory of the \\emph{F-adjoint} framework, which reformulates the layerwise backward recursion of an $L$-depth feedforward network into a single linear system $(I-\\cB)\\Xs=\\bG$, where $\\bG$ is a source vector.",
+    "relevant_ids": [
+      "2607.11289"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk019",
+    "question": "recursion weight single termination how",
+    "relevant_ids": [
+      "2607.11289"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt020",
+    "question": "A Shortcut to Statistically Steady-State Turbulence with Flow Matching",
+    "relevant_ids": [
+      "2607.13022"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka020",
+    "question": "We instead propose to bypass explicit time evolution by directly modeling the distribution of saturated states under an ergodicity assumption, stating that ensemble averages over samples are equivalent to time averages of a single long simulation.",
+    "relevant_ids": [
+      "2607.13022"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk020",
+    "question": "convergence simulations speedup perturbations assumption",
+    "relevant_ids": [
+      "2607.13022"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt021",
+    "question": "Adaptive Filtering of the KV Cache: Diagnosing and Correcting Structural-Role Bias in LLM Inference",
+    "relevant_ids": [
+      "2607.13205"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka021",
+    "question": "On schema-dense input streams such as nested JSON, this score acts as a non-stationary filter that disproportionately retains noise: a non-content sink role (delimiters or whitespace) carries an order of magnitude more energy than any content role, and structural KEY tokens are over-retained at roughly 1.8x the rate of the answer-carrying VALUE tokens, collapsing exact-match accuracy from 88% to 0% at a 5% budget as the signal-to-noise ratio of the retained state degrades.",
+    "relevant_ids": [
+      "2607.13205"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk021",
+    "question": "carries effect non-content best degrades",
+    "relevant_ids": [
+      "2607.13205"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt022",
+    "question": "What Do They See? Interpreting Complex Road Scenarios Through the Eyes of Vision-Language-Action Models for Safe and Trustworthy Autonomous Vehicle Learning",
+    "relevant_ids": [
+      "2607.16938"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka022",
+    "question": "Applied to the Alpamayo 1 trajectory predictor across 210 nuScenes driving scenes, we create a dataset Counter -nuScenes, using which we see that vehicles and pedestrians within the model's 'path' dominate causal influence as expected, while traffic lights, as expected, exert disproportionate effect relative to their image footprint.",
+    "relevant_ids": [
+      "2607.16938"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk022",
+    "question": "now intermediate behavioral does complexity",
+    "relevant_ids": [
+      "2607.16938"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt023",
+    "question": "Isaac Sim-to-Real: Reinforcement Learning based Locomotion for Quadrupeds",
+    "relevant_ids": [
+      "2607.18135"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka023",
+    "question": "The performance of our policy is validated on physical hardware using the Unitree Go1, with experimental results showing similar velocity tracking performance to the quadruped's integrated controller, with a greater ability to recover from large disturbances, and achieve linear velocities of 2.0 m/s and angular velocities of 1.8 rad/s.",
+    "relevant_ids": [
+      "2607.18135"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk023",
+    "question": "zero-shot physical controller validated policies",
+    "relevant_ids": [
+      "2607.18135"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt024",
+    "question": "Cross-Layer Misalignment Detection in Agent Skills: A Progressive Loading-Aware Contrastive Learning Approach",
+    "relevant_ids": [
+      "2607.10534"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka024",
+    "question": "As open-source skill marketplaces expand, users and agents increasingly rely on brief metadata to select third-party skills, making it difficult to detect inconsistencies between a skill's description and its true behavior, a problem we call cross-layer misalignment.",
+    "relevant_ids": [
+      "2607.10534"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk024",
+    "question": "misalignment skills detect human-verified normalized",
+    "relevant_ids": [
+      "2607.10534"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt025",
+    "question": "Semantic Color Naturalness Breaker: Preventing Illegitimate Colorization via Content-Aware Color Priors",
+    "relevant_ids": [
+      "2607.17610"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka025",
+    "question": "Building on Uncolorable Examples (UE), which add imperceptible perturbations to released grayscale images to degrade unauthorized colorization, we propose Semantic Color Naturalness Breaker (SCNB) -- a semantic-level UE framework that drives colorization outputs toward content-inconsistent colors while preserving the visual fidelity of the released grayscale media.",
+    "relevant_ids": [
+      "2607.17610"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk025",
+    "question": "manga colors unauthorized content-aware content-inconsistent",
+    "relevant_ids": [
+      "2607.17610"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt026",
+    "question": "Segregate, Refine, Integrate: Decomposing Multimodal Fusion for Sentiment Analysis",
+    "relevant_ids": [
+      "2607.12686"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka026",
+    "question": "Full cross-modal interaction is deferred to a final prediction step - ablations confirm that structured interactions, not added capacity, drive the gains; gate analysis under visual corruption reveals emergent modality reweighting without explicit supervision.",
+    "relevant_ids": [
+      "2607.12686"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk026",
+    "question": "gate within emergent pathways all",
+    "relevant_ids": [
+      "2607.12686"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt027",
+    "question": "REGEN: Replay-recycling for Expert-to-Generalist distillation with Offline Reinforcement Learning",
+    "relevant_ids": [
+      "2607.19450"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka027",
+    "question": "Recently, a widely used technique for distilling knowledge across various domains and training stages, multi-teacher on-policy distillation (MOPD), helps to decouple the RL stage, saving costs, while maintaining generality across vast domains.",
+    "relevant_ids": [
+      "2607.19450"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk027",
+    "question": "across lower predominant agentic decouples",
+    "relevant_ids": [
+      "2607.19450"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt028",
+    "question": "Stochastic Meta-Unlearning: Bridging Language Backbone and Multimodal Unlearning",
+    "relevant_ids": [
+      "2607.18615"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka028",
+    "question": "There is a surprising phenomenon when moving from single-modality unlearning to VLM unlearning: a target forgotten by the standalone language backbone can still be recovered when image information is given to the full VLM.",
+    "relevant_ids": [
+      "2607.18615"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk028",
+    "question": "evaluates forgetting there test meta-unlearning",
+    "relevant_ids": [
+      "2607.18615"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt029",
+    "question": "DBMol: Design of High-Affinity, Target-Specific Small Molecules through Structure Prediction Models",
+    "relevant_ids": [
+      "2607.19237"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka029",
+    "question": "Recent breakthroughs in structure prediction, such as AlphaFold-3 and Boltz-2, enable accurate biomolecular interaction prediction and show promise as foundation models for downstream tasks, including binding affinity prediction.",
+    "relevant_ids": [
+      "2607.19237"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk029",
+    "question": "evaluate framework small downstream chemically",
+    "relevant_ids": [
+      "2607.19237"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt030",
+    "question": "CardioMeta: Calibrated Multi-Task Prediction of Diabetes, Hypertension, and Cardiovascular Disease Across Population and EHR Data",
+    "relevant_ids": [
+      "2607.15721"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka030",
+    "question": "In the leakage-reduced temporal validation setting, the model achieved a macro-AUROC of 0.839, macro-AUPRC of 0.536, macro-F1 of 0.614, and expected calibration error of 0.024, with modest but consistent improvements over strong gradient-boosting and neural tabular baselines.",
+    "relevant_ids": [
+      "2607.15721"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk030",
+    "question": "demographic macro-f gated joint full-clinical",
+    "relevant_ids": [
+      "2607.15721"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt031",
+    "question": "Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution",
+    "relevant_ids": [
+      "2607.13034"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka031",
+    "question": "A companion real-model harness (LLM-Case) corroborates the effect on a live gpt-4o agent editing a real open-source library, with every candidate patch graded by actually running the project's real pytest suite against a measured oracle: the over-reading is milder but real, and E3 is the leanest and fastest policy at comparable task success--its one shortfall a provider rate-limit, not a wrong edit.",
+    "relevant_ids": [
+      "2607.13034"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk031",
+    "question": "policy only toward oracle small",
+    "relevant_ids": [
+      "2607.13034"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt032",
+    "question": "Neural spectroscopy of AlphaFold2 reveals encoded protein conformational landscapes",
+    "relevant_ids": [
+      "2607.16087"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka032",
+    "question": "AlphaFold2's 93 million parameters, shaped by the evolutionary record of protein structure encoded in the Protein Data Bank and in sequence alignments, are conventionally treated only as machinery for converting sequence to structure.",
+    "relevant_ids": [
+      "2607.16087"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk032",
+    "question": "only physically magnitude coherent treated",
+    "relevant_ids": [
+      "2607.16087"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt033",
+    "question": "MADA-RL: Multi-Agent Debate-Aware Reinforcement Learning for Parameter-Efficient Reasoning in Compact Models",
+    "relevant_ids": [
+      "2607.18006"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka033",
+    "question": "Across five mathematical reasoning benchmarks, MADA-RL raises the accuracy of the DeepSeek-R1-Distill-Qwen-1.5B model from $39.9 \\, \\%$ to $41.9 \\, \\%$ ($+2.0$ points, $p < 0.001$) using $16$ times fewer trainable parameters than fully fine-tuned baselines, placing it on the accuracy-trainable-parameter Pareto front.",
+    "relevant_ids": [
+      "2607.18006"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk033",
+    "question": "improve composed optimizes consensus reasoning",
+    "relevant_ids": [
+      "2607.18006"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt034",
+    "question": "Implementations of Quantum and Classical Topology-Aligned Architectures for Molecular Property Prediction",
+    "relevant_ids": [
+      "2607.13737"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka034",
+    "question": "Here, we propose a topology-aligned inductive bias in which the model architecture mirrors the molecular bond graph: atoms map to a fixed register of computational units, and bonds determine which pairs interact through shared learnable parameters.",
+    "relevant_ids": [
+      "2607.13737"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk034",
+    "question": "binary gap circuit units dipole",
+    "relevant_ids": [
+      "2607.13737"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt035",
+    "question": "Scaling Interpretable Transformers with Parity Bottleneck Layers",
+    "relevant_ids": [
+      "2607.20652"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka035",
+    "question": "At each layer, a Deep Parity Bottleneck (DPB) replaces a learned over-complete basis with a parameter-free algebraic dictionary, providing a deterministic incoherence guarantee and eliminating the memory requirements that have prevented per-layer interpretable bottlenecks at scale.",
+    "relevant_ids": [
+      "2607.20652"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk035",
+    "question": "over-complete efficient compute model issue",
+    "relevant_ids": [
+      "2607.20652"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt036",
+    "question": "DONDO: Open w2v-BERT Speech-Recognition Base Models for African Languages",
+    "relevant_ids": [
+      "2607.21540"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka036",
+    "question": "We further describe a lightweight language-conditioning mechanism that injects a one-hot language identity as a sequence of prefix frames prepended to the acoustic features, allowing a single multilingual checkpoint to be steered to a target language at inference.",
+    "relevant_ids": [
+      "2607.21540"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk036",
+    "question": "apache- anneals injects twenty-seven lack",
+    "relevant_ids": [
+      "2607.21540"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt037",
+    "question": "SPARK: Susceptibility-Guided Profiling and Steering of Latent Reasoning States in Large Language Models",
+    "relevant_ids": [
+      "2607.10296"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka037",
+    "question": "SPARK therefore uses length-controlled susceptibility to separate input-scale effects from residual reasoning activation, and combines this signal with cross-layer coordination to select reasoning-active anchors and under-activated hard examples.",
+    "relevant_ids": [
+      "2607.10296"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk037",
+    "question": "same serialized directions output whether",
+    "relevant_ids": [
+      "2607.10296"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt038",
+    "question": "Taming the Security-Energy Paradox: A Green AI Approach to Optimized Android Malware Detection",
+    "relevant_ids": [
+      "2607.20003"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka038",
+    "question": "The results show that INT8 quantization reduces model size by about 3.5 times with a decrease in energy consumption to 0.0189 mJ per inference, while maintaining more than 99.2\\% detection accuracy.",
+    "relevant_ids": [
+      "2607.20003"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk038",
+    "question": "times quantized inference found protection",
+    "relevant_ids": [
+      "2607.20003"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt039",
+    "question": "Are Single-Token Sparse Autoencoder Features Causally Necessary? Layer-Depth and SAE-Family Effects",
+    "relevant_ids": [
+      "2607.20596"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka039",
+    "question": "The target token's rank recovers to within 2x baseline 96-98% of the time after the same ablation, and a controlled activation-function comparison reverses sign within the same model, leaving training recipe as the residual candidate.",
+    "relevant_ids": [
+      "2607.20596"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk039",
+    "question": "cascades early differences effects model",
+    "relevant_ids": [
+      "2607.20596"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt040",
+    "question": "Robust In-Hand Manipulation via Priors in Reinforcement Learning and Mechanical Design",
+    "relevant_ids": [
+      "2607.12105"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka040",
+    "question": "Results show significant improvement in rotation efficiency, grasp stability, and disturbance rejection, suggesting that physics priors embedded in both learning and fingertip morphology improve task robustness and sim-to-real transfer.",
+    "relevant_ids": [
+      "2607.12105"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk040",
+    "question": "gaiting evaluate off-axis grasp kiiptysk",
+    "relevant_ids": [
+      "2607.12105"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt041",
+    "question": "Beyond Score Prediction: LLM-Based Essay Scoring and Feedback Generation via Reinforcement Learning with Rubric Rewards",
+    "relevant_ids": [
+      "2607.19219"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka041",
+    "question": "To make feedback quality measurable, interpretable, and usable for training, we introduce Rubric-based Feedback Evaluation (RFE), an essay-grounded feedback evaluation framework comprising 166 fine-grained binary rubric items and an LLM-as-judge.",
+    "relevant_ids": [
+      "2607.19219"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk041",
+    "question": "generation available overhead activates publicly",
+    "relevant_ids": [
+      "2607.19219"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt042",
+    "question": "CoG-Guided Weight Correction for Fault-Tolerant Deep Neural Networks",
+    "relevant_ids": [
+      "2607.15753"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka042",
+    "question": "Experiments on safety-critical LSTM-based Networks, including StageNet for disease progression tracking and MTFNet for cardiac anomaly detection, demonstrate fault tolerance improvements of up to 230x and 6.41x, respectively, at a BER of 10^{-3}, with negligible accuracy loss.",
+    "relevant_ids": [
+      "2607.15753"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk042",
+    "question": "modification ber deep safety-critical demonstrate",
+    "relevant_ids": [
+      "2607.15753"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt043",
+    "question": "Riesz-Kernel Stein Variational Gradient Descent: Renormalized Entropy and Long-Time Particle Limits",
+    "relevant_ids": [
+      "2607.14527"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka043",
+    "question": "Throughout the range in which the singular Stein energy is locally integrable, under a uniform bound on the initial relative entropy per particle, the time-averaged empirical-measure law converges weakly to the point mass \\(δ_π\\) at the target as the particle number and any diverging averaging horizon tend to infinity.",
+    "relevant_ids": [
+      "2607.14527"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk043",
+    "question": "kernelized but convergence locally error",
+    "relevant_ids": [
+      "2607.14527"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt044",
+    "question": "Learning from Complementary Ultrasound Representations for Liver Disease Classification",
+    "relevant_ids": [
+      "2607.12062"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka044",
+    "question": "Specifically, we combine conventional B-mode ultrasound with physics-guided and local phase-based image representations and evaluate their effectiveness using self-supervised masked autoencoders (MAEs) and graph convolutional networks (GCNs).",
+    "relevant_ids": [
+      "2607.12062"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk044",
+    "question": "nash sex non-alcoholic masked ultrasound",
+    "relevant_ids": [
+      "2607.12062"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt045",
+    "question": "Efficient Sequential Calibration with $O(T^{2/3-ε})$ Error Bound",
+    "relevant_ids": [
+      "2607.12928"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka045",
+    "question": "The \\textsc{SPR-Calibration} procedure controls calibration with respect to a surrogate sequence of conditional-mean estimates, while the correction layer controls the additional error incurred when these surrogates are used to approximate the true outcomes.",
+    "relevant_ids": [
+      "2607.12928"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk045",
+    "question": "potential barrier total breaking latter",
+    "relevant_ids": [
+      "2607.12928"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt046",
+    "question": "Evaluating and Mitigating Gender Bias in Pre-trained Embeddings for ML-based Recruitment",
+    "relevant_ids": [
+      "2607.20073"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka046",
+    "question": "Our experimental results show that explicit gender scrubbing substantially reduces but does not eliminate gender leakage, while adversarial learning improves fairness mainly on original biographies and acts as a complementary strategy rather than a substitute for text-level debiasing.",
+    "relevant_ids": [
+      "2607.20073"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk046",
+    "question": "embeddings scoring infer rather adversarial",
+    "relevant_ids": [
+      "2607.20073"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt047",
+    "question": "SAGA: Schema-Aware Grounding for Agentic Text-to-SPARQL Generation",
+    "relevant_ids": [
+      "2607.14494"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka047",
+    "question": "SAGA maintains a persistent bidirectional type state, filters known-incompatible property candidates at construction time, presents the remaining graph patterns in a compact schema-annotated format, and handles missing schema information permissively through empirical and trace-local evidence.",
+    "relevant_ids": [
+      "2607.14494"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk047",
+    "question": "query paradigm executable saga property",
+    "relevant_ids": [
+      "2607.14494"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt048",
+    "question": "Automated Textbook Auditing with Multi-Agent LLM Systems",
+    "relevant_ids": [
+      "2607.11276"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka048",
+    "question": "The system accepts a textbook PDF and produces a structured, human-reviewable report via two analysis tracks: a \\textbf{Factual and Technical Track} in which an ensemble of specialized LLM agents detects factual inaccuracies, code errors, incorrect definitions, and conceptual inconsistencies, augmented with web search for humanities domains; and a \\textbf{Grammar Track} operating PDF-natively to preserve diacritical encoding.",
+    "relevant_ids": [
+      "2607.11276"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk048",
+    "question": "auditor taxonomies operating accuracy text",
+    "relevant_ids": [
+      "2607.11276"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt049",
+    "question": "T^2MLR: Transformer with Temporal Middle-Layer Recurrence",
+    "relevant_ids": [
+      "2607.15178"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka049",
+    "question": "We in troduce Transformers with Temporal Middle-Layer Recurrence (T2MLR), a transformers-based latent reasoning architecture that fuses a cached middle layer representation from the previous token directly into an earlier layer of the current token position, enabling abstract intermediate computation to persist across decoding steps with little inference overhead.",
+    "relevant_ids": [
+      "2607.15178"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk049",
+    "question": "computation transformers works but improves",
+    "relevant_ids": [
+      "2607.15178"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt050",
+    "question": "RefineEvo: Planning-Guided Heuristic Evolution with Bidirectional Experience",
+    "relevant_ids": [
+      "2607.11358"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka050",
+    "question": "RefineEvo introduces a Planner to dynamically schedule evolutionary operators and trigger refinement based on the current search state, and a Reflector to distill valuable lessons into a Bidirectional Experience Pool containing both positive insights and negative pitfalls.",
+    "relevant_ids": [
+      "2607.11358"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk050",
+    "question": "problem bidirectional guide experiments generation",
+    "relevant_ids": [
+      "2607.11358"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt051",
+    "question": "GeoDetect: Geometric Adversarial Detection for VLPs",
+    "relevant_ids": [
+      "2607.14737"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka051",
+    "question": "Through comprehensive evaluations, we show that our approach reliably detects AEs across diverse VLP architectures and threat settings, covering unimodal and multimodal attacks as well as adaptive attacks, thereby providing a robust and practical approach to improving the safety and reliability of these models.",
+    "relevant_ids": [
+      "2607.14737"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk051",
+    "question": "adversarial detection regions through examples",
+    "relevant_ids": [
+      "2607.14737"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt052",
+    "question": "Agree on the Model, Verify the Inference: GKR Protocols for HND-Based Transformer Inference",
+    "relevant_ids": [
+      "2607.21162"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka052",
+    "question": "Assuming an honest retained verifier and prover--worker non-collusion, the verifier accepts only when the worker's signed, request-bound response agrees with the proof claims.",
+    "relevant_ids": [
+      "2607.21162"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk052",
+    "question": "registered-model removes expensive experiments incomplete",
+    "relevant_ids": [
+      "2607.21162"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt053",
+    "question": "Probabilistic Physics-Informed Neural Networks for Estimating Heterogeneous Elastic Properties from Low-Resolution and Noisy Displacement Data",
+    "relevant_ids": [
+      "2607.14563"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka053",
+    "question": "Estimating spatially heterogeneous elastic properties from low-resolution displacement measurements is a severely ill-posed inverse elasticity problem because low resolution obscures spatial details needed to distinguish heterogeneous property variations, and small measurement perturbations or fitting errors are amplified through inverse estimation.",
+    "relevant_ids": [
+      "2607.14563"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk053",
+    "question": "model laplace training mean unified",
+    "relevant_ids": [
+      "2607.14563"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt054",
+    "question": "Differentiable Logic Gate Networks for Low-Latency EEG Classification on Edge Devices",
+    "relevant_ids": [
+      "2607.18149"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka054",
+    "question": "Through rigorous iso-parameter experiments across four EEG datasets spanning two classification tasks, binary dementia detection and 3-class emotion recognition, we compared Diff-Logic against matched-capacity Multi-Layer Perceptron (MLP) and Binarized Neural Network (BNN) baselines at four complexity tiers (50k-500k parameters).",
+    "relevant_ids": [
+      "2607.18149"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk054",
+    "question": "emotion bnn operations scale mlp",
+    "relevant_ids": [
+      "2607.18149"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt055",
+    "question": "Cost-Pragmatic Quality Gating and Selection-Fusion Multi-Model Combiners for BioASQ Phases A+ and B",
+    "relevant_ids": [
+      "2607.13551"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka055",
+    "question": "Retrieval unions two parallel pipelines - a hybrid first stage (dense BGE + BM25 + RRF, reaching R@200 = 99.3% on the BioASQ-13b historical archive) and an agent-driven pipeline that decomposes the question over PubMed, Europe PMC, and iCite - with a BGE cross-encoder quality gate flagging weakly-supported questions for selective re-retrieval.",
+    "relevant_ids": [
+      "2607.13551"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk055",
+    "question": "wins resolver combine beats design",
+    "relevant_ids": [
+      "2607.13551"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt056",
+    "question": "Algorithmic Approaches to Sequential Decision-Making and Social Epistemology",
+    "relevant_ids": [
+      "2607.20636"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka056",
+    "question": "First, we provide mathematical formalism in which to study the formation of pessimism traps, a phenomenon identified by philosophers in which agents are influenced by their predecessors to engage in less-ambitious goals.",
+    "relevant_ids": [
+      "2607.20636"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk056",
+    "question": "financial provide framework choose spectrum",
+    "relevant_ids": [
+      "2607.20636"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt057",
+    "question": "Learning to Fine-tune Foundation Models under Resource Limitations",
+    "relevant_ids": [
+      "2607.10694"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka057",
+    "question": "Experiments with a large pre-trained model on a widely-used text classification dataset demonstrate that our method consistently outperforms fine-tuning approaches with the same compute budget by more than $4\\%$ in terms of accuracy and achieves $97\\%$ of full-parameter fine-tuning accuracy while requiring only $25\\%$ of the fine-tuning steps.",
+    "relevant_ids": [
+      "2607.10694"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk057",
+    "question": "consider after process compute decision-making",
+    "relevant_ids": [
+      "2607.10694"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt058",
+    "question": "SCPP: A Unified Python Library for Soft Clustering",
+    "relevant_ids": [
+      "2607.19620"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka058",
+    "question": "SCPP establishes a canonical, scikit-learn-compatible estimator interface that standardizes model training, prediction, membership representation, evaluation, and benchmarking across heterogeneous soft clustering methods, including fuzzy, probabilistic, graph-based, matrix factorization, and deep learning methods.",
+    "relevant_ids": [
+      "2607.19620"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk058",
+    "question": "reproducible scalability heterogeneous representation examples",
+    "relevant_ids": [
+      "2607.19620"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt059",
+    "question": "Depth-Regularized JEPA World Models Learn More Transferable Representations from Real Outdoor Robot Data",
+    "relevant_ids": [
+      "2607.16314"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka059",
+    "question": "Compared to the baseline LeWM, our method lowers visual odometry probe error by 33%, substantially increases surprise-score separation both in-domain and on the out-of-domain TartanGround benchmark, and improves multi-step rollout fidelity under domain shift, with gains that grow with rollout horizon.",
+    "relevant_ids": [
+      "2607.16314"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk059",
+    "question": "overhead detection makes geometric tasks",
+    "relevant_ids": [
+      "2607.16314"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  }
+]

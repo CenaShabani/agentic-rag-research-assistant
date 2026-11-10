@@ -1,0 +1,68 @@
+[
+  {
+    "qid": "s1",
+    "question": "What neural network architecture did the paper 'Attention Is All You Need' introduce, and what did it remove from previous sequence models?",
+    "relevant_ids": ["1706.03762"],
+    "hop": "single"
+  },
+  {
+    "qid": "s2",
+    "question": "How does BERT use masked language modeling during pre-training?",
+    "relevant_ids": ["1810.04805"],
+    "hop": "single"
+  },
+  {
+    "qid": "s3",
+    "question": "What is Dense Passage Retrieval and how does it retrieve relevant passages for open-domain question answering?",
+    "relevant_ids": ["2004.04906"],
+    "hop": "single"
+  },
+  {
+    "qid": "s4",
+    "question": "How does chain-of-thought prompting improve the reasoning ability of large language models?",
+    "relevant_ids": ["2201.11903"],
+    "hop": "single"
+  },
+  {
+    "qid": "s5",
+    "question": "What do word2vec models learn, and what training objective do they use?",
+    "relevant_ids": ["1301.3781"],
+    "hop": "single"
+  },
+  {
+    "qid": "s6",
+    "question": "How does Sentence-BERT modify BERT to produce useful sentence embeddings for similarity search?",
+    "relevant_ids": ["1908.10084"],
+    "hop": "single"
+  },
+  {
+    "qid": "m1",
+    "question": "How does retrieval-augmented generation combine a dense passage retriever with a sequence-to-sequence generator to answer knowledge-intensive questions?",
+    "relevant_ids": ["2005.11401", "2004.04906"],
+    "hop": "multi"
+  },
+  {
+    "qid": "m2",
+    "question": "The ReAct framework interleaves reasoning traces with actions; how does its use of reasoning relate to chain-of-thought prompting?",
+    "relevant_ids": ["2210.03629", "2201.11903"],
+    "hop": "multi"
+  },
+  {
+    "qid": "m3",
+    "question": "How does InstructGPT fine-tune the GPT-3 language model so that it follows human instructions better?",
+    "relevant_ids": ["2203.02155", "2005.14165"],
+    "hop": "multi"
+  },
+  {
+    "qid": "m4",
+    "question": "How did attention mechanisms work in sequence-to-sequence translation before the Transformer, and what did the Transformer change about them?",
+    "relevant_ids": ["1706.03762", "1409.0473"],
+    "hop": "multi"
+  },
+  {
+    "qid": "m5",
+    "question": "How does the LLaMA family of models approach large language modeling compared with GPT-3's few-shot approach?",
+    "relevant_ids": ["2302.13971", "2005.14165"],
+    "hop": "multi"
+  }
+]

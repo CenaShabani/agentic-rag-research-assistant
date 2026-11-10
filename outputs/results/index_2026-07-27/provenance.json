@@ -1,0 +1,12 @@
+{
+  "source": "arXiv API (http://export.arxiv.org/api/query)",
+  "categories": [
+    "cs.CL",
+    "cs.LG"
+  ],
+  "downloaded_utc": "2026-07-27T20:49:33.729860+00:00",
+  "paper_count": 2012,
+  "redistributable_count": 0,
+  "papers_file": "papers.jsonl",
+  "papers_sha256": "6ade5c110c3fe3b5a926d16dc7bcd4df3b173081b5e02d68d1b23ca6fbb79540"
+}

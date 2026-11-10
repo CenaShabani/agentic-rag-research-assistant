@@ -1,0 +1,28 @@
+# Agentic RAG research assistant — pinned dependencies.
+# Python 3.10.x (developed on 3.10.6), matching the rest of the portfolio.
+# Everything here installs and runs on CPU; no GPU is required.
+
+# --- core data stack ---
+numpy==1.26.4
+pandas==2.2.3
+pyarrow==17.0.0          # parquet for chunks + index metadata
+scikit-learn==1.5.2      # CountVectorizer for BM25; array utilities in evaluation
+scipy==1.14.1            # sparse matrices behind the BM25 index (src/lexical.py)
+matplotlib==3.9.2
+
+# --- retrieval / embeddings (the RAG pipeline) ---
+sentence-transformers==3.2.1   # local embedding model (all-MiniLM-L6-v2) and the
+                               # cross-encoder reranker (ms-marco-MiniLM-L-6-v2)
+faiss-cpu==1.9.0               # in-process vector index, no server
+
+# --- deliverables ---
+python-pptx==1.0.2       # deck/build_deck.py builds the slides from outputs/figures/
+
+# --- generation + agent (the Claude API) ---
+anthropic==0.40.0        # official SDK; key read from ANTHROPIC_API_KEY
+
+# --- notebooks + tests ---
+jupyter==1.1.1
+nbconvert==7.16.4
+nbformat==5.10.4
+pytest==8.3.3

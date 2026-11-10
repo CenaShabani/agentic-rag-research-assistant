@@ -1,0 +1,13 @@
+{
+  "n_baseline_queries": 200,
+  "n_probe_queries": 200,
+  "baseline_top1_mean": 0.7251548540592193,
+  "baseline_top1_median": 0.7328633666038513,
+  "probe_top1_mean": 0.5311900568008423,
+  "probe_top1_median": 0.5218209028244019,
+  "relative_drop": 0.2674805197436312,
+  "floor_relative_drop": 0.267,
+  "excess_over_floor": 0.00048051974363116923,
+  "trigger_excess": 0.1,
+  "reindex_now": false
+}

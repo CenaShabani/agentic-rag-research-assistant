@@ -1,0 +1,12 @@
+{
+  "old_index_built_utc": "2026-07-27T20:49:33.729860+00:00",
+  "new_index_built_utc": "2026-08-12T14:11:51.341691+00:00",
+  "days_between": 16,
+  "sample": "the 60 papers the old known-item eval set targeted, sampled seeded-randomly from the old corpus",
+  "n_sampled": 60,
+  "n_still_present": 0,
+  "survival_rate": 0.0,
+  "seeded_papers_present": 12,
+  "seeded_papers_expected": 12,
+  "note": "The recent slice is the newest MAX_PAPERS papers in cs.CL/cs.LG. arXiv publishes more than that in 16 days, so the window rotated completely. The 12 pinned SEED_PAPER_IDS are fetched by id and survive by construction - which is what keeps the 11 curated questions comparable across the rebuild."
+}

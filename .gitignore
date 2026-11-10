@@ -1,0 +1,33 @@
+# --- data: fetched at runtime, never committed (acquisition code ships instead) ---
+data/
+
+# --- outputs: figures and cached results ARE committed so numbers reproduce; ---
+#     everything else under outputs/ is regenerable and ignored.
+#     Every .json under outputs/results/ is a published number the README or the
+#     notebook reads back, so the whole directory is whitelisted rather than
+#     enumerated - an enumerated list silently drops each new result file, which
+#     is exactly what happened to the benchmark's own arm_summary.json.
+outputs/*
+!outputs/figures/
+!outputs/figures/**
+!outputs/results/
+!outputs/results/**
+
+# --- secrets: never commit an API key or a .env ---
+.env
+*.key
+secrets*
+
+# --- python / env ---
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- Interview / recruiter prep: kept locally, never published ---------------
+# These are deliverables in my own workflow (DOSSIER.md is one of the five) but
+# they name prospective employers, quote recruiters' briefs, and in one case
+# cross-reference a confidential assignment. They stay on disk and out of git.
+DOSSIER.md
+interview/

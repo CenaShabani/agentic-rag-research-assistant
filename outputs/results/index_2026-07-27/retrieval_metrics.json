@@ -1,0 +1,79 @@
+[
+  {
+    "qid": "s1",
+    "hop": "single",
+    "hit@k": 1.0,
+    "recall@k": 1.0,
+    "mrr": 0.3333333333333333
+  },
+  {
+    "qid": "s2",
+    "hop": "single",
+    "hit@k": 1.0,
+    "recall@k": 1.0,
+    "mrr": 0.5
+  },
+  {
+    "qid": "s3",
+    "hop": "single",
+    "hit@k": 1.0,
+    "recall@k": 1.0,
+    "mrr": 1.0
+  },
+  {
+    "qid": "s4",
+    "hop": "single",
+    "hit@k": 1.0,
+    "recall@k": 1.0,
+    "mrr": 1.0
+  },
+  {
+    "qid": "s5",
+    "hop": "single",
+    "hit@k": 1.0,
+    "recall@k": 1.0,
+    "mrr": 0.25
+  },
+  {
+    "qid": "s6",
+    "hop": "single",
+    "hit@k": 1.0,
+    "recall@k": 1.0,
+    "mrr": 1.0
+  },
+  {
+    "qid": "m1",
+    "hop": "multi",
+    "hit@k": 1.0,
+    "recall@k": 1.0,
+    "mrr": 1.0
+  },
+  {
+    "qid": "m2",
+    "hop": "multi",
+    "hit@k": 1.0,
+    "recall@k": 0.5,
+    "mrr": 1.0
+  },
+  {
+    "qid": "m3",
+    "hop": "multi",
+    "hit@k": 1.0,
+    "recall@k": 0.5,
+    "mrr": 1.0
+  },
+  {
+    "qid": "m4",
+    "hop": "multi",
+    "hit@k": 0.0,
+    "recall@k": 0.0,
+    "mrr": 0.0
+  },
+  {
+    "qid": "m5",
+    "hop": "multi",
+    "hit@k": 1.0,
+    "recall@k": 1.0,
+    "mrr": 1.0
+  }
+]

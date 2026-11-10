@@ -1,0 +1,1622 @@
+[
+  {
+    "qid": "kt000",
+    "question": "Wasserstein Policy Gradient for Entropy-Regularized Linear-Quadratic Control",
+    "relevant_ids": [
+      "2608.07433"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka000",
+    "question": "For each fixed LQ problem, the exponent has a positive limit as the entropy temperature tends to zero and contains no perturbative factor of the form $\\exp(-c/τ)$, while retaining the usual dependence on the conditioning of the control problem.",
+    "relevant_ids": [
+      "2608.07433"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk000",
+    "question": "temperature policy admissible unrestricted laws",
+    "relevant_ids": [
+      "2608.07433"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt001",
+    "question": "Rapid Embodiment Adaptation for Quadrupedal Locomotion",
+    "relevant_ids": [
+      "2608.01506"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka001",
+    "question": "These results demonstrate the practicality of explicit online embodiment identification for rapid adaptation to joint-limit and payload-mass changes, and provide a step toward handling broader forms of uncertain, degraded, or changing robot hardware.",
+    "relevant_ids": [
+      "2608.01506"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk001",
+    "question": "pairs bodies properties explicit handling",
+    "relevant_ids": [
+      "2608.01506"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt002",
+    "question": "TrimMoE A communication aware and adaptive depth framework for distributed edge inference",
+    "relevant_ids": [
+      "2608.00573"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka002",
+    "question": "On a heterogeneous 10-server testbed with Switch-Base-8E, Qwen-MoE-A2.7B, and Mixtral-8x7B, TrimMoE reduces the average latency by up to 62.8%, lowers the cross-server traffic and the remote-execution ratio, and sustains high throughput under load, while keeping the task-quality degradation within a 2% bound.",
+    "relevant_ids": [
+      "2608.00573"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk002",
+    "question": "online traffic substitution-and-skipping exit-aware offline",
+    "relevant_ids": [
+      "2608.00573"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt003",
+    "question": "Efficient Test-Time Scaling for LLM-based Time Series Forecasting",
+    "relevant_ids": [
+      "2608.08675"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka003",
+    "question": "Experimental results demonstrate that SCALER outperforms strong forecasting baselines in long-term, short-term and zero-shot forecasting while significantly reducing the inference cost associated with scaled LLM for time series forecasting.",
+    "relevant_ids": [
+      "2608.08675"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk003",
+    "question": "token coarse-to-fine first recent reduces",
+    "relevant_ids": [
+      "2608.08675"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt004",
+    "question": "Conformal risk control for model-form uncertainty in parametric non-intrusive reduced-order models",
+    "relevant_ids": [
+      "2608.03360"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka004",
+    "question": "Starting from a deterministic reduced basis constructed from snapshot matrices, we model uncertainty through random perturbations defined on the Stiefel manifold, directed along the discarded modes, yielding stochastic reduced-order approximations whose induced variance reflects the basis-truncation error.",
+    "relevant_ids": [
+      "2608.03360"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk004",
+    "question": "standard demonstrate model partial sepa-",
+    "relevant_ids": [
+      "2608.03360"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt005",
+    "question": "LLM Serving in the Wild: An Empirical Study of Frameworks, Methods, and System Designs",
+    "relevant_ids": [
+      "2608.03036"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka005",
+    "question": "Repository-level analysis shows that LLM serving frameworks support applications and architectures, including Reinforcement Learning (RL)-based reasoning, multimodal generation and understanding, microservices, and cloud infrastructure.",
+    "relevant_ids": [
+      "2608.03036"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk005",
+    "question": "vllm pruning making across differ",
+    "relevant_ids": [
+      "2608.03036"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt006",
+    "question": "Evading Chain-of-Thought Monitoring Through Model Poisoning",
+    "relevant_ids": [
+      "2608.02820"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka006",
+    "question": "Causal interventions locate a trigger-conditioned activation pathway that does not depend on the visible reasoning, and residual stream verbalizations provide an anomaly warning near answer generation, but do not identify the trigger, target, or backdoor mechanism.",
+    "relevant_ids": [
+      "2608.02820"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk006",
+    "question": "reasoning-model target causal actions mechanism",
+    "relevant_ids": [
+      "2608.02820"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt007",
+    "question": "Illuminating Visual Identity in Universal Multimodal Embeddings",
+    "relevant_ids": [
+      "2608.01794"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka007",
+    "question": "To bridge this gap, we propose a unified formulation for visual identity discrimination~(VisID) and introduce $\\textbf{MVEB}$ ($\\textbf{M}$ultimodal $\\textbf{V}$isual Identity $\\textbf{E}$mbedding $\\textbf{B}$enchmark), a large-scale benchmark curated from both real-world and synthetic datasets to support evaluation and training.",
+    "relevant_ids": [
+      "2608.01794"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk007",
+    "question": "ai-generated field textbf tasks retrieval",
+    "relevant_ids": [
+      "2608.01794"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt008",
+    "question": "Enhancing Scientific Named Entity Recognition via Large Language Models: A Type-driven Multi-task Learning Approach",
+    "relevant_ids": [
+      "2608.08636"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka008",
+    "question": "Then, we develop a novel demonstration selection strategy based on sentence similarity and entity type diversity to activate the in-context learning capabilities of LLMs, thereby improving entity recognition accuracy across diverse scientific domains.",
+    "relevant_ids": [
+      "2608.08636"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk008",
+    "question": "classification given demonstration complex valuable",
+    "relevant_ids": [
+      "2608.08636"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt009",
+    "question": "Scoring Rules! Statistical and Strategic Alignment for Text Evaluation Metrics",
+    "relevant_ids": [
+      "2608.01423"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka009",
+    "question": "Second, we develop a unified design framework for mutual-information-based metrics that decomposes existing and new metrics into four choices: information measure, estimation method, text representation, and prediction mechanism.",
+    "relevant_ids": [
+      "2608.01423"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk009",
+    "question": "strategically correlation competitive framework strategic",
+    "relevant_ids": [
+      "2608.01423"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt010",
+    "question": "SPECTRA: Pushing the KV Cache Beyond the 2-Bit Cliff via Spectral Transform Coding",
+    "relevant_ids": [
+      "2608.07915"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka010",
+    "question": "On Llama-3.1-8B and Qwen2.5-7B over long-context benchmarks, SPECTRA is near-lossless at 4x compression, competitive at 8x where uniform quantization has collapsed, and reaches up to 12x, pushing usable compression past the 2-bit cliff so the same GPU holds longer contexts and larger batches.",
+    "relevant_ids": [
+      "2608.07915"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk010",
+    "question": "conversations competitive rotated outlier-heavy carry",
+    "relevant_ids": [
+      "2608.07915"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt011",
+    "question": "Catastrophic Forgetting in Continual Reinforcement Learning",
+    "relevant_ids": [
+      "2608.08673"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka011",
+    "question": "The experimental results reveal a complex dynamic between task similarity and forgetting, with significant fluctuations in forgetting severity observed across degrees of task similarities and task complexities, and are suggestive of an interdependence of forgetting on the similarity and complexity of tasks.",
+    "relevant_ids": [
+      "2608.08673"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk011",
+    "question": "understanding employed variables accompanied uneven",
+    "relevant_ids": [
+      "2608.08673"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt012",
+    "question": "Efficient Weak-Entropy PINN for Solving Hyperbolic Conservation Laws",
+    "relevant_ids": [
+      "2608.10389"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka012",
+    "question": "The method enforces the governing equations in their weak (integral) formulation and incorporates the entropy condition to select the physically admissible solution, while employing the discrete fast Fourier transform (DFFT) for efficient numerical integration.",
+    "relevant_ids": [
+      "2608.10389"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk012",
+    "question": "discrete wepinn laws integral accuracy",
+    "relevant_ids": [
+      "2608.10389"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt013",
+    "question": "Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes",
+    "relevant_ids": [
+      "2608.06402"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka013",
+    "question": "Specifically, (1) the Local-View Community Initialization stage encodes local graph structures using k-ego contexts and unsupervised node roles; (2) the Multi-factor Community Merge stage uses LLM-induced rules to iteratively merge local communities; (3) the Multi-grain Community Refinement stage applies LLM-induced coarse-to-fine rules in parallel to reduce boundary noise; and (4) the Global-view Community Selection stage identifies high-quality communities based on topological compactness and boundary clarity.",
+    "relevant_ids": [
+      "2608.06402"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk013",
+    "question": "deep-learning promising high-quality rely similar",
+    "relevant_ids": [
+      "2608.06402"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt014",
+    "question": "How fine a change can moments see? A scale law for detecting distribution shift, with a kernel calibration rule",
+    "relevant_ids": [
+      "2608.01268"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka014",
+    "question": "The law: certifying a feature of spatial scale eps carrying mass fraction f requires polynomial tests of degree N* >= log(1/f)/(2 eps), proved via the Chebyshev extremal problem; a Gauss-quadrature construction gives N* >= 4b-1 for a b-scale topology, so cost is set by feature fineness, not feature count.",
+    "relevant_ids": [
+      "2608.01268"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk014",
+    "question": "least content filtration streams high-dimensional",
+    "relevant_ids": [
+      "2608.01268"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt015",
+    "question": "Graph Machine: Exploring Edge Mechanisms as an Inductive Bias",
+    "relevant_ids": [
+      "2608.06834"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka015",
+    "question": "We introduce Graph Machine, an architecture with two explicit edge-based mechanisms: Edge-augmented attention, in which edges modulate attention between nodes, and edge-centric referral, in which nodes exchange addresses to update their edges.",
+    "relevant_ids": [
+      "2608.06834"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk015",
+    "question": "content-based geometry controlled modulate powerful",
+    "relevant_ids": [
+      "2608.06834"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt016",
+    "question": "Evaluation Pitfalls and Sparsity Limitations in LLM-based Confidence Estimates for Classification",
+    "relevant_ids": [
+      "2608.04899"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka016",
+    "question": "Besides limiting practical utility, we show that this sparsity critically affects evaluation: the choice of interpolation in area under the accuracy-rejection curve (AUARC) dramatically alters rankings, with consistency sampling dropping from best to worst under stepwise versus linear interpolation.",
+    "relevant_ids": [
+      "2608.04899"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk016",
+    "question": "vanilla exactly being half indicating",
+    "relevant_ids": [
+      "2608.04899"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt017",
+    "question": "Relative Parameter Importance in Task-Agnostic Replay-Free Continual Learning",
+    "relevant_ids": [
+      "2608.00630"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka017",
+    "question": "Unlike existing methods, our approach allows the update of parameters with high past-task importance when they have low relative-importance, thus enabling backward knowledge transfer in addition to tackling the stability-plasticity trade-off.",
+    "relevant_ids": [
+      "2608.00630"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk017",
+    "question": "enabling learning access parameter-importance stability-plasticity",
+    "relevant_ids": [
+      "2608.00630"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt018",
+    "question": "From field-scale to large-scale spectral libraries: Tabular foundation models in soil spectroscopy",
+    "relevant_ids": [
+      "2608.00608"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka018",
+    "question": "We compared an in-context learning tabular foundation model (TabPFN), a convolutional neural network (CNN), rule-based regression (Cubist), Random Forest, and partial least squares regression (PLSR) using full spectra as well as features derived from principal component analysis (PCA) and partial least squares (PLS) latent variables.",
+    "relevant_ids": [
+      "2608.00608"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk018",
+    "question": "benchmark analysis approaches property across",
+    "relevant_ids": [
+      "2608.00608"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt019",
+    "question": "Dense Language Generation Made Simple: Deterministic, Randomized, and Multi-Order Algorithms",
+    "relevant_ids": [
+      "2608.01320"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka019",
+    "question": "Given an order representing the importance or relevance of possible outputs, lower density is the asymptotic lower bound, as $n$ grows, on the fraction of the first $n$ elements of the target language that the generator outputs before they appear in the data.",
+    "relevant_ids": [
+      "2608.01320"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk019",
+    "question": "output grows arbitrary every optimal",
+    "relevant_ids": [
+      "2608.01320"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt020",
+    "question": "Can Training Logs Make Model Comparisons More Precise?",
+    "relevant_ids": [
+      "2608.02705"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka020",
+    "question": "Because training-log covariates are produced during training rather than measured before it, we use arm-specific covariate adjustment: each model is adjusted only with statistics from its own runs, and the raw mean difference remains the reported effect.",
+    "relevant_ids": [
+      "2608.02705"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk020",
+    "question": "noise during vision uncertainty adjusted",
+    "relevant_ids": [
+      "2608.02705"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt021",
+    "question": "Character Iconicity vs. Arbitrariness: An Arabic NLP Perspective",
+    "relevant_ids": [
+      "2608.02935"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka021",
+    "question": "Prior work has shown that dotless Arabic can remain readable and effective for natural language processing (NLP), but it remains unclear whether this success depends on preserving the original rasm groupings or whether arbitrary but consistent remappings to the same reduced rasm set can achieve comparable performance.",
+    "relevant_ids": [
+      "2608.02935"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk021",
+    "question": "letter prior effective comparable distributional",
+    "relevant_ids": [
+      "2608.02935"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt022",
+    "question": "MameLoshnLM: Yiddish Language Model and Evaluation Benchmark",
+    "relevant_ids": [
+      "2608.05850"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka022",
+    "question": "Our analyses show that these gains are not only quantitative: relative to general-purpose multilingual models, MameLoshnLM better captures language-defining lexical and morphological patterns, pointing to a broader failure mode of noisy web-scale multilingual data for low-resource languages.",
+    "relevant_ids": [
+      "2608.05850"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk022",
+    "question": "language-defining digital better understanding kashes",
+    "relevant_ids": [
+      "2608.05850"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt023",
+    "question": "CAi Copilot: Reducing Operational Workload in Molecular Design through Intent-Driven Agentic Workflows",
+    "relevant_ids": [
+      "2608.06961"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka023",
+    "question": "These results show that CAi turns broad molecular-design intent into transparent, traceable workflows that connect interim decisions to candidate-level evidence.",
+    "relevant_ids": [
+      "2608.06961"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk023",
+    "question": "grounded tools layers dock decisions",
+    "relevant_ids": [
+      "2608.06961"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt024",
+    "question": "Loanword or Switch? The Annotation Boundary, Not the Model, Drives Kazakh-Russian Code-Switching Identification",
+    "relevant_ids": [
+      "2608.00581"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka024",
+    "question": "Off-the-shelf LID and letter heuristics over-label Kazakh-Russian social text as mixed: Russian loanwords inside Kazakh look like code-switching under a shared Cyrillic script.",
+    "relevant_ids": [
+      "2608.00581"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk024",
+    "question": "gap over-label release borrowings code-switching",
+    "relevant_ids": [
+      "2608.00581"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt025",
+    "question": "GRASP: Reinforcing Language Model Anonymizers with Group Relative Policy Optimization",
+    "relevant_ids": [
+      "2608.06526"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka025",
+    "question": "Against adversarial anonymization driven by frontier models such as Gemini~2.5~Flash and Claude, it achieves a comparable or better overall trade-off while removing substantially more private information, and it runs entirely on-device at roughly $1\\%$ of the GPT-4o teacher's cost.",
+    "relevant_ids": [
+      "2608.06526"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk025",
+    "question": "occupation writing optimizes baseline only",
+    "relevant_ids": [
+      "2608.06526"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt026",
+    "question": "Beyond Modern Asymptotics for Log-Likelihood Ratios in Logistic Regression",
+    "relevant_ids": [
+      "2608.02507"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka026",
+    "question": "For $n\\geq d\\geq 3$, we determine, up to universal constants, its worst case $(1-δ)$ quantile over all fixed collections of design vectors and all target parameters: \\[ d\\log\\left(\\frac{e n}{d}\\right)+\\log\\left(\\frac{1}δ\\right). \\] This is a nonasymptotic analogue of the Wilks $χ^2_d$ phenomenon and requires no regularity assumptions on the design.",
+    "relevant_ids": [
+      "2608.02507"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk026",
+    "question": "right order uniform gaussian gtrsim",
+    "relevant_ids": [
+      "2608.02507"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt027",
+    "question": "Safety Cost of Steering Vectors Is Separable and Reducible",
+    "relevant_ids": [
+      "2608.08383"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka027",
+    "question": "Across models, steering behaviors, and attack suites, including unseen attacks types, our method substantially reduces steering-induced safety degradation while preserving the original steering effect with minimal impact on false refusal.",
+    "relevant_ids": [
+      "2608.08383"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk027",
+    "question": "applying yet controlling model emerging",
+    "relevant_ids": [
+      "2608.08383"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt028",
+    "question": "Exploiting chemical shift variability enables recovery of overlapping metabolites from 1H nuclear magnetic resonance spectra",
+    "relevant_ids": [
+      "2608.07610"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka028",
+    "question": "We find that BSI-NMF accurately recovers the underlying chemical signals in 1D 1H NMR spectra missed by existing analyses approaches across simulations, laboratory created datasets, and a large urine dataset obtained from 2439 people across Europe.",
+    "relevant_ids": [
+      "2608.07610"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk028",
+    "question": "matrix nmr dataset one-dimensional obtained",
+    "relevant_ids": [
+      "2608.07610"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt029",
+    "question": "Beyond Aggregate Calibration: Decomposing Income-Conditional Recall Disparities in Automated Credit Default Prediction",
+    "relevant_ids": [
+      "2608.08202"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka029",
+    "question": "Implementing a sequential feature-blinding methodology allows us to isolate the drivers of this disparity across three distinct mechanisms: (1) direct reliance on self-reported applicant income; (2) algorithmic absorption of upstream institutional bias encoded within origination interest rates; and (3) a residual disparity (3.55 percentage points in cross-validation; 2.56 percentage points on a held-out test partition, Z = -4.04, p < 0.0001) that remains even after purging both income and interest rates from the model.",
+    "relevant_ids": [
+      "2608.08202"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk029",
+    "question": "lens across origination pipelines implications",
+    "relevant_ids": [
+      "2608.08202"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt030",
+    "question": "A-SR: Self-Evolving Agentic LLMs for Symbolic Regression via Hierarchical Coordination",
+    "relevant_ids": [
+      "2608.04872"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka030",
+    "question": "The framework self-evolves at two timescales: within a run, it adapts the search process without updating LLM parameters; across runs, recorded trajectories can be distilled into open-source LLMs as role-conditioned proposal priors.",
+    "relevant_ids": [
+      "2608.04872"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk030",
+    "question": "llama llm-guided obtains a-sr parameters",
+    "relevant_ids": [
+      "2608.04872"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt031",
+    "question": "Neural Networks with Local Converging Inputs for Efficient Options Pricing Models",
+    "relevant_ids": [
+      "2608.02778"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka031",
+    "question": "We demonstrate this approach on cash-or-nothing options under the Black-Scholes equation in one, two, and three spatial dimensions, and on single-asset down-and-out barrier call options under the Heston stochastic-volatility model (whose pricing PDE is two-dimensional in the spot price $S$ and the instantaneous variance $v$).",
+    "relevant_ids": [
+      "2608.02778"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk031",
+    "question": "refined-mesh amount small root-mean-square concise",
+    "relevant_ids": [
+      "2608.02778"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt032",
+    "question": "SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse",
+    "relevant_ids": [
+      "2608.05204"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka032",
+    "question": "An LLM assists only the Operational-trace extraction, once at ingestion; at audit time SKILLTRACE compares cached traces deterministically, calibrates each trace against same-function strict negatives, and reports which trace supports a reuse decision.",
+    "relevant_ids": [
+      "2608.05204"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk032",
+    "question": "operational authored calibrates procedure references",
+    "relevant_ids": [
+      "2608.05204"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt033",
+    "question": "FutureBridge: Token Selection Beyond Local Preference in Collaborative Decoding",
+    "relevant_ids": [
+      "2608.06819"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka033",
+    "question": "These results indicate that token selection benefits from modeling whether the receiving SLM can use each candidate to continue reasoning, rather than relying on the LLM's local preference alone.",
+    "relevant_ids": [
+      "2608.06819"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk033",
+    "question": "counterfactual without context scores model",
+    "relevant_ids": [
+      "2608.06819"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt034",
+    "question": "SRAP: SVD-Refined Adversarial Perturbations for Imperceptible Face-Swap Defense",
+    "relevant_ids": [
+      "2608.03395"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka034",
+    "question": "Although adversarial perturbations generated by projected gradient descent (PGD) can disrupt the identity representations used by face-swapping models, their visual quality is degraded by two characteristics: perturbations are distributed broadly over the image, including identity-insensitive regions, and they contain visually salient high-frequency components.",
+    "relevant_ids": [
+      "2608.03395"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk034",
+    "question": "identity-sensitivity energy they representations inefficiencies",
+    "relevant_ids": [
+      "2608.03395"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt035",
+    "question": "Beyond Binary: Continuous State Optimization with Graph-Structured Objectives",
+    "relevant_ids": [
+      "2608.09366"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka035",
+    "question": "Beyond stability, we introduce three advanced mechanisms to exploit the underlying graph structure: (1) an \\emph{asynchronous} update schedule that eliminates synchronization overhead in sparse graphs; (2) an \\emph{adaptive} algorithm that learns the graph structure from data; and (3) a \\emph{joint estimator} that leverages data sharing among correlated objectives to significantly tighten regret bounds.",
+    "relevant_ids": [
+      "2608.09366"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk035",
+    "question": "diversity movement continuous similar framework",
+    "relevant_ids": [
+      "2608.09366"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt036",
+    "question": "REATS: LLM Reasoning-based Ensemble Learning for Adaptive Time Series Forecasting",
+    "relevant_ids": [
+      "2608.10149"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka036",
+    "question": "To enable effective LLM-based ensembling, we study its key design choices and propose: (i) a structured input pipeline that transforms raw time series into hybrid textual--numerical representations with fixed token cost, enabling rule-based chain-of-thought construction without API dependency, augmented with retrieved similar-sample priors; (ii) a diverse multi-row weight supervision scheme coupled with a token-efficient percentage-table format that reduces numerical complexity and mitigates LLM hallucinations; and (iii) a two-stage fine-tuning framework combining SFT with GRPO, where a reciprocal reward mapping transforms the continuous unbounded MSE gap into bounded signals with amplified near-oracle sensitivity, addressing the uniform sensitivity and outlier-dominated advantage compression inherent in naive reward designs for regression-based GRPO.",
+    "relevant_ids": [
+      "2608.10149"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk036",
+    "question": "amplified raw dependency black-box features",
+    "relevant_ids": [
+      "2608.10149"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt037",
+    "question": "Sixteen models, fewer than two voices: measuring ensemble dispersion where no answer is uniquely correct",
+    "relevant_ids": [
+      "2608.00285"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka037",
+    "question": "Model identity was a detectable structuring factor of the dissent that remained, but the usual categories recovered it only partly: scale differences pointed in opposite directions across pairs, family grouped models on only five two-member lines, and the most divergent voice changed with panel composition, so that the surfaced outlier describes the ensemble rather than the model.",
+    "relevant_ids": [
+      "2608.00285"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk037",
+    "question": "per-model structure criterion measuring directions",
+    "relevant_ids": [
+      "2608.00285"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt038",
+    "question": "Approximation Rates for Metaplectic Neural Networks",
+    "relevant_ids": [
+      "2608.08872"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka038",
+    "question": "Then, after establishing embedding between metaplectic Barron spaces and Sobolev spaces we consider a neural metaplectic dictionary and we prove Monte-Carlo approximation bounds for metaplectic Barron functions using finite linear combinations of atoms of the dictionary.",
+    "relevant_ids": [
+      "2608.08872"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk038",
+    "question": "symplectically blocks embedding combinations classical",
+    "relevant_ids": [
+      "2608.08872"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt039",
+    "question": "Hallucinations and Constraints : Regulating surgical workflow recognition beyond accuracy",
+    "relevant_ids": [
+      "2608.09332"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka039",
+    "question": "Our simulations show the potential of these explicitly constrained predicates for the case of automatic surgical phase recognition in robot-assisted hysterectomy, improving accuracy by approximately 10% while removing the vast majority of topological errors, suggesting that mathematical guarantees of correctness can supplement other empirical forms of regulating machine learning in medical image computing and computer-assisted interventions.",
+    "relevant_ids": [
+      "2608.09332"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk039",
+    "question": "potential types recognition accuracy vast",
+    "relevant_ids": [
+      "2608.09332"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt040",
+    "question": "Secrets Everywhere: Auditing Memorization in Mobility Prediction Models",
+    "relevant_ids": [
+      "2608.02052"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka040",
+    "question": "While memorization has been extensively studied in language models, mobility prediction poses unique challenges: training sequences encode human behavior at various spatial and temporal scales, creating privacy risks at different granularities.",
+    "relevant_ids": [
+      "2608.02052"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk040",
+    "question": "known multi-scale randomness various correlate",
+    "relevant_ids": [
+      "2608.02052"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt041",
+    "question": "Predicting blood clot growth from sparse post-onset measurements with latent neural differential equations",
+    "relevant_ids": [
+      "2608.08165"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka041",
+    "question": "We compare seven probabilistic methods: stochastic neural ordinary differential equations (SNODE), stochastic neural functional differential equations (SNFDE), a latent neural-process baseline, a monotone probabilistic deep ensemble, empirical trajectory retrieval, PCA-ridge Gaussian posterior, and Gompertz-curve retrieval.",
+    "relevant_ids": [
+      "2608.08165"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk041",
+    "question": "remains combine seven tissue-factor effectively",
+    "relevant_ids": [
+      "2608.08165"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt042",
+    "question": "Visual Representation Matters: Exploiting Temporal Differences in Video-to-Audio Generation",
+    "relevant_ids": [
+      "2608.04902"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka042",
+    "question": "Extensive experiments on benchmark datasets demonstrate that effectively exploiting TD through our proposed framework significantly improves end-to-end V2A generation quality, even outperforming dedicated V2A representations such as contrastive audio-visual pretraining.",
+    "relevant_ids": [
+      "2608.04902"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk042",
+    "question": "based biases even introducing video-to-audio",
+    "relevant_ids": [
+      "2608.04902"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt043",
+    "question": "Modality Agreement- and Conflict-Aware Prototype Hypergraph Learning for Multimodal Intent Understanding",
+    "relevant_ids": [
+      "2608.04054"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka043",
+    "question": "Such disagreement is frequently class-informative; for example, lexical positivity accompanied by incongruent vocal or facial behavior may indicate sarcasm or taunting, yet most fusion methods either encourage modality alignment or treat inconsistency as uncertainty to be suppressed.",
+    "relevant_ids": [
+      "2608.04054"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk043",
+    "question": "also experiments vocal preserve discrepancies",
+    "relevant_ids": [
+      "2608.04054"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt044",
+    "question": "Learning-Based Collaborative MEC for LLM Inference with Soft-Deadline Awareness via Transformer-Enhanced PPO",
+    "relevant_ids": [
+      "2608.02031"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka044",
+    "question": "The main challenges lie in handling large-scale computations under strict latency constraints while limiting the number of allowable deadline extensions, especially in the presence of task dependencies within each request.",
+    "relevant_ids": [
+      "2608.02031"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk044",
+    "question": "edge capturing collaborative mechanism language",
+    "relevant_ids": [
+      "2608.02031"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt045",
+    "question": "PatTree: a novel approach for automated creation of multimodal, graph-based patient representations for medical classification tasks",
+    "relevant_ids": [
+      "2608.02692"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka045",
+    "question": "While representing heterogeneous clinical data within a unified knowledge graph, PatTree preserves the semantic relationships between data elements across modalities and data sources, facilitating interoperability and machine-interpretable data access.",
+    "relevant_ids": [
+      "2608.02692"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk045",
+    "question": "pipelines challenges disease heterogeneity set",
+    "relevant_ids": [
+      "2608.02692"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt046",
+    "question": "The Illusion of Cross-Lingual Safety in Low-Resource Languages",
+    "relevant_ids": [
+      "2608.11146"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka046",
+    "question": "These findings demonstrate that current multilingual safety alignment is superficial, providing strong evidence against the assumption of a universal, language-agnostic harm manifold within the specific low-resource languages studied.",
+    "relevant_ids": [
+      "2608.11146"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk046",
+    "question": "investigate generation-based cross-lingual universal representations",
+    "relevant_ids": [
+      "2608.11146"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt047",
+    "question": "Physics-Informed Learning for Robust Acoustic Localization with Calibrated Uncertainty",
+    "relevant_ids": [
+      "2608.08911"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka047",
+    "question": "Rather than statistically replacing the underlying physics, we propose a method to refine it and increase robustness outside of ideal operating conditions: a learned model operating on physics-informed acoustic features corrects a fast hyperbolic solver where it produces implausible solutions, substantially reducing catastrophic worst-case errors while matching its median accuracy on field data.",
+    "relevant_ids": [
+      "2608.08911"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk047",
+    "question": "dominance environments spatial provide automated",
+    "relevant_ids": [
+      "2608.08911"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt048",
+    "question": "The Cost of Binarizing Survival Outcomes in Clinical Prognostic Modeling",
+    "relevant_ids": [
+      "2608.04046"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka048",
+    "question": "We examine the cost of this binarization in the context of Bayesian network (BN) feature selection, using two recent publications as case studies: one that applies BN-based feature selection to a head-and-neck cancer cohort and a second surgical cohort study that, while not BN-based, likewise binarizes its survival endpoint.",
+    "relevant_ids": [
+      "2608.04046"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk048",
+    "question": "single default log-likelihood learning further",
+    "relevant_ids": [
+      "2608.04046"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt049",
+    "question": "RH-RAG: Trustworthy Long-Form Generation for Privacy-Constrained Settings",
+    "relevant_ids": [
+      "2608.01311"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka049",
+    "question": "RH-RAG decomposes generation into three coordinated stages: a Planner Agent that constructs a global document outline from high-level semantic summaries, a Writer Agent that incrementally generates coherent section-wise content using bounded coherence memory, and a Checker Agent that mitigates hallucinations through natural language inference-based factual verification and an attestation-driven revision loop.",
+    "relevant_ids": [
+      "2608.01311"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk049",
+    "question": "strict open-weight retrieval index hallucinations",
+    "relevant_ids": [
+      "2608.01311"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt050",
+    "question": "Not Every Divergence Should Be Suppressed: Counterfactual Recoverability in On-Policy Distillation",
+    "relevant_ids": [
+      "2608.04408"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka050",
+    "question": "Based on their relative success, states are categorized as recoverable, irreversible-but-avoidable, or ambiguous, and these labels guide whether training retains, rolls back, or conventionally supervises the corresponding trajectory.",
+    "relevant_ids": [
+      "2608.04408"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk050",
+    "question": "recoverability-aware intervention performance held-out reaching",
+    "relevant_ids": [
+      "2608.04408"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt051",
+    "question": "Do Neural Networks Really Beat the Curse of Dimensionality? A Bit-Complexity View",
+    "relevant_ids": [
+      "2608.01357"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka051",
+    "question": "Our results also indicate that many seeming advantages of neural networks, including dimension-independent rates and superconvergence phenomena, stem from differences in function class complexity rather than intrinsic architectural superiority.",
+    "relevant_ids": [
+      "2608.01357"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk051",
+    "question": "approaches grids operates governed exhibit",
+    "relevant_ids": [
+      "2608.01357"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt052",
+    "question": "Hallucinations on the Board: Tool-Augmented Evaluation of LLM Chess Commentary",
+    "relevant_ids": [
+      "2608.04240"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka052",
+    "question": "Superhuman game engines in domains like chess have made expert-level evaluations easily accessible, yet they communicate what is true without the natural-language explanations that make such expertise educationally useful to experts and non-experts alike.",
+    "relevant_ids": [
+      "2608.04240"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk052",
+    "question": "hallucinate experts judgment assessment true",
+    "relevant_ids": [
+      "2608.04240"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt053",
+    "question": "RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance",
+    "relevant_ids": [
+      "2608.09853"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka053",
+    "question": "Trained without preference labels, RynnValue attains an average Kendall's tau_a of 0.675 on RBM-EVAL-OOD, surpassing the fully preference-supervised state of the art (0.655) and more than doubling a progress-only counterpart (0.292), while generalizing zero-shot to unseen tasks, embodiments, and viewpoints.",
+    "relevant_ids": [
+      "2608.09853"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk053",
+    "question": "sampling reliable zero-shot progress-only random",
+    "relevant_ids": [
+      "2608.09853"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt054",
+    "question": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
+    "relevant_ids": [
+      "2608.04077"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka054",
+    "question": "With heterogeneous LLM judges and role-level rubrics, human deliverables rank first on average (73.7 vs. 70.3, 70.2, and 69.6 out of 100), while all four systems show overlapping 95% confidence intervals and complementary strengths.",
+    "relevant_ids": [
+      "2608.04077"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk054",
+    "question": "relative sub-industries levels capture stages",
+    "relevant_ids": [
+      "2608.04077"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt055",
+    "question": "Confirming Our Biases? Evaluating the Capabilities, Risks, and Societal Impact of Large Language Models",
+    "relevant_ids": [
+      "2608.06977"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka055",
+    "question": "The prompts systematically vary in prompting strategy, support versus challenge instructions, prompt polarity, users' expressed beliefs, and topic domain, spanning both opinion-based and factual questions.",
+    "relevant_ids": [
+      "2608.06977"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk055",
+    "question": "systematically beliefs sensitive furthermore effects",
+    "relevant_ids": [
+      "2608.06977"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt056",
+    "question": "GROW: Group-Relative Advantage-Weighted On-Policy Reinforcement Learning of Autoregressive-Diffusion Text-to-Speech model",
+    "relevant_ids": [
+      "2608.03215"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka056",
+    "question": "Reinforcement learning for flow-matching text-to-speech is complicated by deterministic ODE sampling: trajectory-level policy-gradient methods typically convert the ODE into an SDE and track per-step likelihood ratios, introducing stochastic perturbations and substantial overhead.",
+    "relevant_ids": [
+      "2608.03215"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk056",
+    "question": "within-group velocity sampling deterministic group-mean",
+    "relevant_ids": [
+      "2608.03215"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt057",
+    "question": "In-Context Density Estimation for Tabular Data",
+    "relevant_ids": [
+      "2608.09348"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka057",
+    "question": "ICED is a transformer-based model pretrained once on a synthetic prior built specifically for density estimation under an objective that fits log-density where it is informative and preserves its ordering elsewhere.",
+    "relevant_ids": [
+      "2608.09348"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk057",
+    "question": "generative fitting informative typically objective",
+    "relevant_ids": [
+      "2608.09348"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt058",
+    "question": "Generic Vision and Cross-Attention for Reaction Yield Prediction",
+    "relevant_ids": [
+      "2608.00776"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka058",
+    "question": "By synergizing both modalities, superior predictive accuracy compared to traditional methodologies is achieved by the optimal cross-attention framework (Test RMSE = 5.27%).",
+    "relevant_ids": [
+      "2608.00776"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk058",
+    "question": "highly tabular macroscopic learning topologies",
+    "relevant_ids": [
+      "2608.00776"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  },
+  {
+    "qid": "kt059",
+    "question": "Differentiate the Solver, Not the Equation: Reverse-Sweep Adjoints for Block Implicit Simulation",
+    "relevant_ids": [
+      "2608.08559"
+    ],
+    "hop": "single",
+    "flavour": "title"
+  },
+  {
+    "qid": "ka059",
+    "question": "The backward matches automatic differentiation through the identical executed forward to machine precision at every solver depth, where the equation-level adjoint is off by 37% after one sweep; in a controlled same-codebase, same-GPU comparison it is 33x faster and uses 71x less memory than unrolled automatic differentiation; and the same construction is exact on projective dynamics and extended position-based dynamics.",
+    "relevant_ids": [
+      "2608.08559"
+    ],
+    "hop": "single",
+    "flavour": "abstract"
+  },
+  {
+    "qid": "kk059",
+    "question": "elastodynamics ordered system structure solver",
+    "relevant_ids": [
+      "2608.08559"
+    ],
+    "hop": "single",
+    "flavour": "keyword"
+  }
+]
